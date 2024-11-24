@@ -87,7 +87,7 @@ while choix != 0:
       if list_statut[modif]=="a faire":
           list_statut[modif]="fait"
       elif list_statut[modif]=="fait":
-          list_statut[modif]="a faire"
+          list_statut[modif]="a fair"
       
       x=0
       i = 0
